@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://vendnovation.com/wp-content/uploads/2023/04/vendnovation-logo.png",
+    "light": "https://vendnovation.com/wp-content/uploads/2023/04/vendnovation-logo.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://vendnovation.com/wp-content/uploads/2023/07/faviconV2.png",
   "colors": {
     "primary": "#2A9FF9",
     "light": "#0E4FB9",
